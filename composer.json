@@ -3,4 +3,6 @@
     , "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development."
     , "keywords": ["bootstrap", "css"]
     , "homepage": "http://jasny.github.com/bootstrap/"
+    , "target-dir": "jasny/bootstrap"
+    , "replace": "twitter/bootstrap"
 }
