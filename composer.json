@@ -4,5 +4,4 @@
     , "keywords": ["bootstrap", "css"]
     , "homepage": "http://jasny.github.com/bootstrap/"
     , "target-dir": "jasny/bootstrap"
-    , "replace": "twitter/bootstrap"
 }
