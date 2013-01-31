@@ -4,6 +4,6 @@
     , "keywords": ["bootstrap", "css"]
     , "homepage": "http://jasny.github.com/bootstrap/"
     , "replace": {
-    	"twitter/bootstrap": "2.2.2"
+    	"twitter/bootstrap": "self.version"
     }
 }
